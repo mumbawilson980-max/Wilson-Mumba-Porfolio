@@ -3,8 +3,7 @@
 A personal portfolio website for Wilson Mumba Chadi, a Kenyan media 
 professional with over 3 years of experience in Photography, Videography, 
 Cinematography, Graphic Design, Video Editing, and Social Media Management. 
-Built to showcase his work, skills, and professional journey — from the 
-University of Eastern Africa, Baraton to Radio Africa Group (Homeboyz Radio).
+Built to showcase his work, skills and professional journey.
 
 
  Contact
