@@ -6,8 +6,6 @@ Cinematography, Graphic Design, Video Editing, and Social Media Management.
 Built to showcase his work, skills, and professional journey — from the 
 University of Eastern Africa, Baraton to Radio Africa Group (Homeboyz Radio).
 
-## 🔗 Live Site
-[View Portfolio](https://yourusername.github.io/wilson-mumba-portfolio)
 
  Contact
 - Email: mumbawilson980@gmail.com
